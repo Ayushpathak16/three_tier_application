@@ -1,11 +1,4 @@
-Bilkul bhidu 😄🔥 — GitHub ke liye **proper professional README.md** ready kar diyaa hoon.
-Bas isko `README.md` file me paste karke repo me push kar de 👍
 
----
-
-# 📘 **README.md — three_tier_application**
-
-````md
 # 🚀 Three Tier Application on Azure using Terraform
 
 This project demonstrates how to deploy a **3-Tier Architecture** on **Microsoft Azure** using **Terraform (Infrastructure as Code)**.
